@@ -1,0 +1,27 @@
+###
+GET  http://localhost:3000/api/empleados
+
+###
+POST http://localhost:3000/api/empleados
+Content-Type: application/json
+
+{
+    "name": "Melanny Luna",
+    "position": "Junior",
+    "office": "Paraguay",
+    "salary": "30000"
+}
+
+###
+GET http://localhost:3000/api/empleados/5f83854f0744183988ebc5fe
+
+###
+DELETE http://localhost:3000/api/empleados/5f8388ad7868153280847c18
+
+###
+PUT http://localhost:3000/api/empleados/5f83854f0744183988ebc5fe
+Content-Type: application/json
+
+{
+    "salary": "60000"
+}
