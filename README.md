@@ -1,4 +1,4 @@
-# Primer Stach MEAN
+# Primer Stack MEAN
 
 ## Requiere
 * nodejs
