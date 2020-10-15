@@ -1,7 +1,8 @@
 # Primer Stack MEAN
 
 ## Requiere
-* nodejs
+* Nodejs
+* MongoDB
 * Angular
 
 
